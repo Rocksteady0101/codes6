@@ -1,0 +1,30 @@
+h1 {
+  color: rgb(158, 67, 138); 
+  border: 10px red solid; 
+  text-align: center;
+}
+footer {
+  font-size: large;
+  padding: 10px 10px;
+  border: 10px red solid;
+}
+* {
+  background-color: bisque;
+  text-align: center;
+}
+p {
+  border-left: 30px;
+  border-left-color:black; 
+  border-left-style: solid;
+}
+#p1 {
+  font-weight: bold;
+}
+footer :hover {
+  font-style: italic;
+  color: #0a45bb;
+  text-decoration: none;
+  letter-spacing: 12px;
+}
+
+
